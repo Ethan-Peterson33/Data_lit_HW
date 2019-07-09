@@ -1,0 +1,23 @@
+Last login: Fri Jun 28 18:18:30 on ttys003
+cd(base) Ethans-Mac-mini:~ ethanpeterson$ cd documents
+(base) Ethans-Mac-mini:documents ethanpeterson$ cd Seed_bank
+(base) Ethans-Mac-mini:Seed_bank ethanpeterson$ virtualenv seed_bank
+Using base prefix '/Users/ethanpeterson/anaconda3'
+New python executable in /Users/ethanpeterson/Documents/Seed_Bank/seed_bank/bin/python
+Installing setuptools, pip, wheel...
+done.
+(base) Ethans-Mac-mini:Seed_bank ethanpeterson$ source seed_bank/bin/activate
+(seed_bank) (base) Ethans-Mac-mini:Seed_bank ethanpeterson$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
